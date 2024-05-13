@@ -1,0 +1,3 @@
+from lab5 import fourierSeriesApproximation
+
+fourierSeriesApproximation.solve()

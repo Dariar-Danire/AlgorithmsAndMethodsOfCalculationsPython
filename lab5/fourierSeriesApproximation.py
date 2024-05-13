@@ -1,7 +1,7 @@
 import math
 import matplotlib.pyplot as pyplot
-from integrator import integral
-from generateX import generateX
+from lab5.integrator import integral
+from lab5.generateX import generateX
 def f(x):
     return abs(math.cos(x))
 
